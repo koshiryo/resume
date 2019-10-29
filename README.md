@@ -31,6 +31,9 @@ Then replace all the content of the html tag in index.html (including the html t
 Open the project on github and click on `Settings` in the top right corner.
 Go down and find GitHub Pages, select `master branch` in source, then click save.
 
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
   [1]: https://github.com/koshiryo/resume
   [2]: https://gitee.com/cool-resume?from=weekly-82
